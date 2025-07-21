@@ -7,7 +7,7 @@ For example, if you type the word "cat", the output will be: Charlie, Alpha, Tan
 
 program
 <br>
-<img src="img_girl.jresult/code .png" alt="Girl in a jacket" width="500" height="600">
+<img src=" result/code .png" alt="Girl in a jacket" width="500" height="600">
 
 ---
 
@@ -29,7 +29,7 @@ Files Needed:
 - A CSV file named "nato_phonetic_alphabet.csv"  
   It contains all letters (A to Z) with their matching NATO words.
 
-  <img src=" result/csv file.png" alt="Girl in a jacket" width="500" height="600">
+  <img src="result/csv file.png" alt="Girl in a jacket" width="500" height="600">
 
 Example:  
 A = Alpha  
