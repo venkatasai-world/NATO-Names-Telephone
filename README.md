@@ -7,7 +7,7 @@ For example, if you type the word "cat", the output will be: Charlie, Alpha, Tan
 
 program
 <br>
-<img src=" result/code .png" alt="Girl in a jacket" width="500" height="600">
+<img src="result/code .png" alt="Girl in a jacket" width="500" height="600">
 
 ---
 
