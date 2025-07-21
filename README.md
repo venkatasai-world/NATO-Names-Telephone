@@ -3,6 +3,11 @@
 This is a simple Python project that changes any word you type into the NATO Phonetic Alphabet.  
 For example, if you type the word "cat", the output will be: Charlie, Alpha, Tango.
 
+
+
+program
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
 ---
 
 What is the NATO Phonetic Alphabet?
@@ -23,6 +28,8 @@ Files Needed:
 - A CSV file named "nato_phonetic_alphabet.csv"  
   It contains all letters (A to Z) with their matching NATO words.
 
+  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
 Example:  
 A = Alpha  
 B = Bravo  
@@ -41,6 +48,8 @@ How It Works:
 - The final result is shown as a list of words.
 
 ---
+
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 What You Need:
 
